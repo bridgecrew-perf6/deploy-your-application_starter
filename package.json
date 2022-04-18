@@ -24,7 +24,7 @@
     "faker": "^5.1.0",
     "lowdb": "^1.0.0"
   },
-  "engines":{
-    "node":"14.x"
+  "engines": {
+    "node": "14.x"
   }
 }
